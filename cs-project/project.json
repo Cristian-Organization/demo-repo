@@ -1,6 +1,6 @@
 {
   "name": "Cristian 1",
-  "description": "Blank Processss [M]z",
+  "description": "Blank Processss [M]",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[22.4.1]",
